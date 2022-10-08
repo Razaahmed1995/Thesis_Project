@@ -1,6 +1,6 @@
 # Thesis_Project
 
-Identifying bias through use pf Natural Language Processing
+Identifying bias through use of Natural Language Processing
 
 Web scraping wikipedia articles with their revision history.
 removing noise from data.
